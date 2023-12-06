@@ -2,4 +2,4 @@
 
 A new Flutter project.
 
-![first_app_img.PNG](../first_app_img.png)
+![first_app_img.PNG](img/first_app_img.png)
